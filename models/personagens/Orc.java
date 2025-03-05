@@ -7,7 +7,7 @@ public class Orc extends Personagem {
 
     @Override
     public String getDescricao() {
-        return "PERIGO:  ALTO RISCO DE MORTE";
+        return "PERIGO:  ALTO RISCO MORTAL";
     }
     
 }
