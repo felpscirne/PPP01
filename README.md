@@ -1,7 +1,11 @@
 # BATALHA RPG
 
-Este é um jogo de batalha de personagens em Java, onde você pode escolher seu personagem, equipar armas e armaduras, e lutar contra um inimigo. <br>
-Criado como um trabalho para a cadeira "Principios e Padrões de Projeto" do curso "Analise e Desenvolvimento de Sistemas" no IFRS - Campus Rio Grande.
+Este é um jogo de batalha de personagens em Java, onde você pode escolher seu personagem, equipar armas e armaduras. Lute contra um inimigo utilizando de rolagem de dados em turnos alternados.<br>
+
+Criado como um trabalho para a cadeira "Principios e Padrões de Projeto" do curso "Analise e Desenvolvimento de Sistemas" no IFRS - Campus Rio Grande.<br>
+
+O objetivo era criar um sistema de combate utilizando personagens e armas utilizando o padrão de projeto "Strategy".
+
 
 ## Estrutura do Projeto
 
